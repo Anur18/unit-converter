@@ -1,2 +1,2 @@
 # unit-converter
-this is simple converter used to convert metric units
+This is simple converter used to convert metric units like m to cm etc.
